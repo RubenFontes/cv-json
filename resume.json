@@ -1,0 +1,115 @@
+{
+  "selectedTemplate": 9,
+  "headings": {
+    "work": "Experiência",
+    "education": "",
+    "projects": "Projetos",
+    "awards": "Perfil",
+    "skills": "Competências"
+  },
+  "basics": {
+    "name": "Ruben Fontes",
+    "email": "rubengcfs@gmail.com",
+    "phone": "+55 (83) 98668-7094",
+    "website": "rubenfontes.github.io",
+    "location": {
+      "address": "João Pessoa, Paraíba"
+    }
+  },
+  "education": [
+    {
+      "institution": "",
+      "location": "",
+      "area": "",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "",
+      "gpa": ""
+    }
+  ],
+  "work": [
+    {
+      "location": "João Pessoa, Paraíba, Brasil",
+      "position": "Desenvolvedor Web",
+      "website": "",
+      "startDate": "Jun 2022",
+      "endDate": "Presente",
+      "highlights": [
+        "Realizei melhorias  de acessibilidade para o site institucional da UFPB Virtual; Participei das etapas de design e desenvolvimento para implementação de formulários e telas de login; Atuei no desenvolvimento de um ambiente de aula EaD apoiado na plataforma de aprendizagem do Moodle; Implementei interfaces de usuário responsivas e iFrames para renderização de conteúdos incorporados."
+      ],
+      "company": "UFPB Virtual"
+    },
+    {
+      "highlights": [
+        "Integrei uma equipe com demais desenvolvedores e participei das etapas de análise, design, programação e testes para implantação de um Chatbot de suporte ao EaD; Realizei integrações entre APIs, teste de rotas, criação de página estática e contribuí no desenvolvimento de um Backend apoiado na plataforma Node.js."
+      ],
+      "company": "UFPB Virtual",
+      "position": "Desenvolvedor de Software",
+      "location": "João Pessoa, paraíba, Brasil",
+      "startDate": "Jun 2021",
+      "endDate": "Jun 2022"
+    },
+    {
+      "highlights": [
+        "Envolvimento em projetos de prototipagem e web design. Atuei diretamente na construção de wireframes e na concepção de protótipos de alta fidelidade para websites de propósito geral."
+      ],
+      "company": "Supra7",
+      "position": "Web Designer",
+      "location": "João Pessoa, Paraíba",
+      "startDate": "Fev 2021",
+      "endDate": "Jun 2021"
+    }
+  ],
+  "skills": [
+    {
+      "level": "",
+      "keywords": [
+        "HTML, CSS/SASS, JavaScript/TypeScript, Bootstrap, React, Wordpress/Elementor."
+      ],
+      "name": "Front-end"
+    },
+    {
+      "keywords": [
+        "Node.js, Express.js, SQL, MySQL, Dialogflow."
+      ],
+      "name": "Backend"
+    },
+    {
+      "keywords": [
+        "Figma, Adobe XD, Photoshop, Illustrator."
+      ],
+      "name": "Design"
+    },
+    {
+      "keywords": [
+        "Git/SVN, Scrum/Kanban."
+      ],
+      "name": "Outros"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Interfaces Livres",
+      "description": "O projeto de extensão Interfaces Livres, iniciado em 2012, tem como objetivo geral criar mídias e projetos de tecnologias de informação e comunicação para fomentar a inclusão digital e a distribuição livre de técnicas, informação e conhecimento.  Durante 2020 a 2022 atuei com demais desenvolvedores, designers e ilustradores na criação de projetos de apoio à comunidade. Participei de trabalhos como o chatbot Dorinha, uma agente conversacional de suporte ao EaD, e da criação de templates para páginas institucionais da UFPB.",
+      "keywords": [
+        null
+      ],
+      "url": "https://interfaceslivres.github.io/"
+    }
+  ],
+  "awards": [
+    {
+      "date": "",
+      "summary": "Desenvolvedor Front-end com mais de 2 anos de experiência em projetos do setor público. Possuo excelente comunicação, proatividade e aprendizado rápido. Trabalhei com diversas linguagens e tecnologias, especialmente frameworks e bibliotecas voltados para o desenvolvimento de interfaces. Me adapto facilmente a diferentes ambientes e sou altamente motivado no trabalho. "
+    }
+  ],
+  "sections": [
+    "templates",
+    "profile",
+    "awards",
+    "education",
+    "work",
+    "skills",
+    "projects"
+  ]
+}
